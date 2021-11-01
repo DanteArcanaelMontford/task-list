@@ -143,3 +143,10 @@ body {
     transform: rotateX(-90deg);
   }
 }
+
+@media (max-width: 1000px) {
+  body {
+    width: auto;
+    height: auto;
+  }
+}
