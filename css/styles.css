@@ -147,6 +147,6 @@ body {
 @media (max-width: 1000px) {
   body {
     width: auto;
-    height: auto;
+    height: 100%;
   }
 }
